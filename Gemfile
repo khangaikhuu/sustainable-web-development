@@ -47,6 +47,8 @@ gem "brakeman"
 
 gem "bundler-audit"
 
+gem "lograge"
+
 group :test do
   # Adds support for Capybara system testing and selenium driver
   gem 'capybara', '>= 3.26'
